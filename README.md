@@ -21,6 +21,7 @@ ___Concept___
   - 
 - ##### 참고자료
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
+  - Sample Adult file : "samadult.csv"
 - ##### 프로젝트에 사용된 분석 라이브러리
 ```
 import pandas
