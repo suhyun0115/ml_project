@@ -36,8 +36,8 @@ ___Process___
   - Sample Adult file : samadult.cs
 
 - ##### Column 선정
-[NHIS_2018]
-(시각화)
+[NHIS_2018](https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm)
+
 
 - ##### Data 전처리 (dataset 정보 및 가공)
 ```
