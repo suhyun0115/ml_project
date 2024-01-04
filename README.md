@@ -7,6 +7,8 @@ ___Team DBDBDeep 소개___
 ![조서현1](https://github.com/seohyuny/ml_project/assets/154740829/98bd88d7-c514-49d6-9c58-36ae0d2026e3)
 ![김유진1](https://github.com/seohyuny/ml_project/assets/154740829/24ac5527-8282-4fcd-83aa-cce698d1f60c)
 ![이수현1](https://github.com/seohyuny/ml_project/assets/154740829/69675da5-81be-47a7-9dff-2ce81606c9db)
+
+
 조서현 / 김유진 / 이수현
 
 ---
