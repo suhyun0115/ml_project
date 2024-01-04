@@ -4,9 +4,10 @@
 
 ___Team DBDBDeep 소개___
 
-![조서현1-removebg-preview](https://github.com/seohyuny/ml_project/assets/154740829/f06509c5-e40a-4bac-a1ac-282028f73114)
-![김유진1-removebg-preview](https://github.com/seohyuny/ml_project/assets/154740829/b2f43d08-6a91-4291-8f32-906e7f83860c)
-![이수현1-removebg-preview](https://github.com/seohyuny/ml_project/assets/154740829/b9e06082-ef4f-4ccf-a6d6-0174d4741395)
+
+![조서현](https://github.com/seohyuny/ml_project/assets/154740829/299c4cb0-c98b-4358-b88d-c363000d818c)
+![김유진](https://github.com/seohyuny/ml_project/assets/154740829/8dd8cbe7-5bec-4098-8d37-ed0dcf6e52e9)
+![이수현](https://github.com/seohyuny/ml_project/assets/154740829/fd0e5ac6-50d6-49d6-96d0-d2240eb42a89)
 
 
 조서현 / 김유진 / 이수현
