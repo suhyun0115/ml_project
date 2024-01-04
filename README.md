@@ -32,10 +32,14 @@ import joblib
 
 ___Process___
 
-- Column 선정
+- ##### Column 선정
 
 (시각화)
 
+- ##### Data 전처리 (dataset 정보 및 가공)
+  - 
+- ##### Machine-Learning (Model 정보)
+  - 
 
 
 
