@@ -14,6 +14,7 @@ ___Team DBDBDeep 소개____
 ___Concept___
 
 - ##### 참고논문
+  - [당뇨학회]<https://www.diabetes.or.kr/general/info/info_01.php?con=2>
   - 
 - ##### 참고자료
   - 
@@ -30,7 +31,9 @@ import joblib
 
 ___Process___
 
+- Column 선정
 
+(시각화)
 
 
 
