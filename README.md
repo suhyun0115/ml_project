@@ -3,19 +3,36 @@
 ---
 
 ___Team DBDBDeep 소개____
+조서현
 
+김유진
+
+이수현
 
 ---
 
-프로젝트에 사용된 분석 라이브러리
+___Concept___
 
+- ##### 참고논문
+  - 
+- ##### 참고자료
+  - 
+- ##### 프로젝트에 사용된 분석 라이브러리
 ```
 import pandas
 import numpy
 import sklearn
 import streamlit
 import joblib
+```
+
+--- 
+
+___Process___
 
 
-Team DBDBDeep 소개
+
+
+
+
 
