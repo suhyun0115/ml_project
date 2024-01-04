@@ -1,3 +1,3 @@
-# ml_project
-Team DBDBDeep Machine Learning project
-당뇨병 예측 분석 프로젝트 입니다.
+# Machine Learning Project
+### 당뇨병 예측 머신러닝 분석 프로젝트 입니다.
+Team DBDBDeep
