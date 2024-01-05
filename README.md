@@ -28,6 +28,7 @@ import numpy
 import sklearn
 import streamlit
 import joblib
+import wordcloud
 ```
 
 --- 
@@ -36,7 +37,7 @@ ___Process___
 
 - ##### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
-  - Sample Adult file : samadult.csv
+  - Sample Adult file : samadult.csv, familyxx.csv
 
 - ##### 분석 변수
 [NHIS_2018](https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm)
