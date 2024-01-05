@@ -20,7 +20,6 @@ ___Concept___
 
 - ##### 참고문헌
   - [당뇨학회]<https://www.diabetes.or.kr/general/info/info_01.php?con=2>
-  - 
 
 - ##### 프로젝트에 사용된 분석 라이브러리
 ```
@@ -37,7 +36,7 @@ ___Process___
 
 - ##### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
-  - Sample Adult file : samadult.cs
+  - Sample Adult file : samadult.csv
 
 - ##### 분석 변수
 [NHIS_2018](https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm)
@@ -52,8 +51,6 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 ```
 
 ![diabetes_age_count3](https://github.com/seohyuny/ml_project/assets/154740829/5b359a1c-bb3d-46e0-82bd-c98868b64571) ![cholesterol](https://github.com/seohyuny/ml_project/assets/154740829/84c3562f-3262-44bd-a775-1c0cd0ebbba2)
-
-
 
 
 ![diabetes_age_sex](https://github.com/seohyuny/ml_project/assets/154740829/1b8c6494-6fd8-42c6-ad52-510920ad11b3)
