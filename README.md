@@ -73,10 +73,10 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 
 1) 기본 데이터프레임 생성
 2) EDA (탐색적 데이터 분석)
-  2-1) 설문 답변 1/2로 정형화
-  2-2) null값 및 이상치 데이터 정제
-3) 컬럼명 재구성
-4) 스케일링 및 데이터 csv 저장
+3) 설문 답변 1/2로 정형화
+4) null값 및 이상치 데이터 정제
+5) 컬럼명 재구성
+6) 스케일링 및 데이터 csv 저장
 
 - ##### Machine-Learning (Model 정보)
 ```
