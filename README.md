@@ -71,6 +71,8 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 - 사용한 colunms
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/23c10fdf-8f9e-49fd-84d2-6eebbb2bcf6e)
 
+- Data perprocessing
+
 1) 기본 데이터프레임 생성
 2) EDA (탐색적 데이터 분석)
 3) 설문 답변 1/2로 정형화
