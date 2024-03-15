@@ -81,9 +81,18 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 6) 스케일링 및 데이터 csv 저장
 
 - ##### Machine-Learning (Model 정보)
-```
 
-```
+1) SVC
+2) Decisiontree
+3) KNN
+4) Adaboost
+5) Naivebayes
+6) Randomforest
+7) XGBoost
+
+![image](https://github.com/seohyuny/ml_project/assets/154740829/eb76dd4a-e5e5-4160-b4d5-5909615dcd2c)  ![image](https://github.com/seohyuny/ml_project/assets/154740829/47010c45-f1db-40d7-9f5c-d181a994c172)
+
+
 
 
 
