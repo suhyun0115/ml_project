@@ -67,6 +67,10 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 
 
 - ##### Data 전처리 (dataset 정보 및 가공)
+
+- 사용한 colunms
+![image](https://github.com/seohyuny/ml_project/assets/154740829/23c10fdf-8f9e-49fd-84d2-6eebbb2bcf6e)
+
 ```
 
 ```
